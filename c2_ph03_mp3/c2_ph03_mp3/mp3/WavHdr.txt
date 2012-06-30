@@ -1,0 +1,6 @@
+FILE QUARANTINED
+----------------
+
+Microsoft Antigen for SMTP removed a file since it was found to match a filter.
+File name: "MP3.zip_UWunsafe__WavHdr.exe"
+Filter name: "FILE FILTER= FileList: *.EXE"
